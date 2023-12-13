@@ -3,5 +3,5 @@ This project is about t-SNE (t-Distributed Stochastic Neighbor Embedding) and UM
 
 ## Objectives:
 1. Understand what are t-SNE and UMAP and be able to explain in the layman terms.
-2. 
-3. Demonstrate how to use t-SNE and UMAP in visualizing high-dimensional data.
+   
+2. Demonstrate how to use t-SNE and UMAP in visualizing high-dimensional data.
